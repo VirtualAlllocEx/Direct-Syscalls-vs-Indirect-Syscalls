@@ -11,9 +11,9 @@ The content and all code examples in this article are for research purposes only
 At the beginning of this blog post I would like to thank the following people who helped me with this topic: [@NinjaParanoid](https://twitter.com/NinjaParanoid), [@Jean_Maes_1994](https://twitter.com/Jean_Maes_1994), [@ShitSecure](https://twitter.com/ShitSecure) and [@NUL0x4C](https://twitter.com/NUL0x4C). If you are interested in malware, check out @NinjaParanoid's MOS course and join the MaldevAcademy project.
 
 # **References**
-https://www.guru99.com/system-call-operating-system.html
-https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/#:~:text=This%20number%20is%20called%20syscall,OS%20versions%20or%20service%20packs
-https://alice.climent-pommeret.red/posts/direct-syscalls-hells-halos-syswhispers2/
-https://maldevacademy.com/modules/89
-https://0xdarkvortex.dev/hiding-in-plainsight/
-https://blog.sektor7.net/#!res/2021/halosgate.md
+- https://www.guru99.com/system-call-operating-system.html
+- https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/#:~:text=This%20number%20is%20called%20syscall,OS%20versions%20or%20service%20packs
+- https://alice.climent-pommeret.red/posts/direct-syscalls-hells-halos-syswhispers2/
+- https://maldevacademy.com/modules/89
+- https://0xdarkvortex.dev/hiding-in-plainsight/
+- https://blog.sektor7.net/#!res/2021/halosgate.md
