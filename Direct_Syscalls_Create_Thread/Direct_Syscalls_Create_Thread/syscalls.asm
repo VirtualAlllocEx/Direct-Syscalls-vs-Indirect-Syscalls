@@ -12,7 +12,7 @@ NtAllocateVirtualMemory PROC
     mov eax, wNtAllocateVirtualMemory               ; Move the syscall number into the eax register.
     syscall                                         ; Execute syscall.
     ret                                             ; Return from the procedure.
-NtAllocateVirtualMemory ENDP                     ; End of the procedure.
+NtAllocateVirtualMemory ENDP                        ; End of the procedure.
 
 
 ; Similar procedures for NtWriteVirtualMemory syscalls
